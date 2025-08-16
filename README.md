@@ -1,2 +1,11 @@
 # Portfolio-2025
 Welcome! I'm a recent graduate from the Florida Institute of Technology, where I earned a Bachelor of Science in Aerospace Engineering with a concentration in Astronautics. My passion lies in the space industry, driven by curiosity, innovation, and the pursuit of exploration beyond Earth. I’m committed to continuous learning and growth, always seeking new challenges that expand my technical skills. This portfolio showcases my academic journey, technical projects, and evolving expertise as I aim to make a meaningful impact in the world of space exploration.
+
+# Project Vulcan
+
+# Florida Tech Rocketry Club
+Ion Engine:
+Hobby Jet Engine:
+Storm Chaser:
+
+# Florida Tech SOARS Club
