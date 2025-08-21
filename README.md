@@ -10,6 +10,7 @@ Welcome! I'm a recent graduate from the Florida Institute of Technology, where I
 
 # Homemade Power Supply
 Using a video I found online, I was able to convert a computer power supply into a DC benchtop power supply capable of providing 5V at 18A, 12V at 6A, and 3.3V at 10A. I was then able to utilize this power supply to drive the Electrolysis of water into hydrogen and oxygen.
+
 <img width="422" height="455" alt="Screenshot 2025-08-20 201250" src="https://github.com/user-attachments/assets/f8d06a95-8208-4afb-9816-99c7683cef18" />
 <img width="336" height="351" alt="Screenshot 2025-08-20 201334" src="https://github.com/user-attachments/assets/11854609-f3a7-428a-98f7-8230129b1833" />
 
