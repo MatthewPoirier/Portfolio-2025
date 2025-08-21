@@ -2,6 +2,9 @@
 Welcome! I'm a recent graduate from the Florida Institute of Technology, where I earned a Bachelor of Science in Aerospace Engineering with a concentration in Astronautics. My passion lies in the space industry, driven by curiosity, innovation, and the pursuit of exploration beyond Earth. I’m committed to continuous learning and growth, always seeking new challenges that expand my technical skills. This portfolio showcases my academic journey, technical projects, and evolving expertise as I aim to make a meaningful impact in the world of space exploration.
 
 # Project Vulcan
+
+[Project_Vulcan_Final_Report.pdf](https://github.com/user-attachments/files/21908344/Project_Vulcan_Final_Report.pdf)
+
 <img width="159" height="306" alt="Screenshot 2025-08-20 163021" src="https://github.com/user-attachments/assets/f94d9bfa-c1c9-40e8-87e5-29fc9b3e1ba2" />
 <img width="1305" height="731" alt="Screenshot 2025-02-23 121001" src="https://github.com/user-attachments/assets/467bab3f-b577-45ec-a4af-59f565756738" />
 
